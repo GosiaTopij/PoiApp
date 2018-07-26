@@ -1,5 +1,6 @@
+package com.read;
 
-public class Walidacja2 {
+public class Walidacja {
 
 	public static boolean dlaVarchar(String c1, int x) {
 		if ((c1.length() > x) || (c1.length() < 1)) {

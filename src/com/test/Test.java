@@ -1,3 +1,6 @@
+package com.test;
+
+import java.math.BigDecimal;
 
 public class Test {
 
@@ -10,7 +13,6 @@ public class Test {
 		System.out.println(size2);
 		int i = Integer.parseInt(s);
 		System.out.println(i);*/
-		// TODO Auto-generated method stub
 	//	String s = "mmm";
 	//	int ss = 0 ;
 	//	try {
@@ -47,9 +49,8 @@ public class Test {
 		result = result.substring(0, result.length() - 1);
 	//	System.out.println(result);
 		
-		String g = "lala ma zlote" ;
-		g = g.substring(0, g.length() - 1);
-		System.out.println(g);
+		String g = "PRICE numeric(3,2)" ;
+		System.out.println(g.substring(g.indexOf(" ")+1));
 	//	System.out.println(s.matches(regex));
 	//	System.out.println(s);
 		//String[] splitedArray = null;

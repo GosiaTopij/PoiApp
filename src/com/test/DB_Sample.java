@@ -1,3 +1,4 @@
+package com.test;
 import java.sql.*;
 
 public class DB_Sample {

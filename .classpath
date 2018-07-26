@@ -11,24 +11,85 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/commons-collections4-4.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/curvesapi-1.04.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar" sourcepath="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/xmlbeans-2.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Desktop/driver jd/sqljdbc_6.0/enu/jre7/sqljdbc41.jar" sourcepath="TU"/>
-	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Desktop/driver jd/sqljdbc_6.0/enu/jre8/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/commons-codec-1.10.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/commons-collections4-4.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/curvesapi-1.04.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/junit-4.12.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/log4j-1.2.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar" sourcepath="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Downloads/poi-bin-3.17-20170915/poi-3.17/xmlbeans-2.6.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Desktop/driver jd/sqljdbc_6.0/enu/jre7/sqljdbc41.jar" sourcepath="TU">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Topij Małgorzata/Desktop/driver jd/sqljdbc_6.0/enu/jre8/sqljdbc42.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>

@@ -1,5 +1,5 @@
+package com.write;
 import java.util.*;
-import com.model.TestModel;
 
 public class Lista {
 	public List<TestModel> findAll() {

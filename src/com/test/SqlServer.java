@@ -1,3 +1,4 @@
+package com.test;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -8,11 +9,8 @@ public class SqlServer {
 		try {
 			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
 			Connection conn = DriverManager.getConnection(db_connect_string);
-
 			Statement statement = conn.createStatement();
-			
-			//  statement.executeUpdate("CREATE TABLE cos_tam\r\n"+"(ID int,\r\n"+"NAME char(5),\r\n"+"PRICE numeric(3,2));" );
-			 String kon = "CREATE TABLE cos_innego\r\n"+"(ID int,\r\n"+"NAME char(5),\r\n"+"PRICE numeric(3,2));";
+			 String kon = "CREATE TABLE cos_innego\r\n" + "(ID int,\r\n"+"NAME char(5),\r\n"+"PRICE numeric(3,2));";
 			 statement.executeUpdate(kon);
 			
 			List<List<String>> listaWierszyDobrych = new ArrayList<>();
@@ -32,12 +30,10 @@ public class SqlServer {
 			
 			System.out.println(listaWierszyDobrych.get(0));
 			System.out.println(listaWierszyDobrych.get(1));
-			//System.out.println(listaWierszyDobrych.get(2));
-			
+			//System.out.println(listaWierszyDobrych.get(2));			
 			//  String sql = "CREATE DATABASE STUDENTS";
-	//	  statement.executeUpdate(sql);-
-	
-		//	String aa = "cfkf";
+			//	statement.executeUpdate(sql);
+
 
 			System.out.println("TOOOOOOOOOOOOOOOO");
 			  System.out.println(listaWierszyDobrych.get(0));

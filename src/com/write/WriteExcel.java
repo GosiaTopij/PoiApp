@@ -1,3 +1,4 @@
+package com.write;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
@@ -5,7 +6,6 @@ import org.apache.poi.hssf.usermodel.HSSFFont;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import com.model.TestModel;
 
 public class WriteExcel {
 
@@ -21,7 +21,7 @@ public class WriteExcel {
 			Row rowHeading = sheet.createRow(0);
 			rowHeading.createCell(0).setCellValue("ID");
 			rowHeading.createCell(1).setCellValue("NAME");
-			rowHeading.createCell(2).setCellValue("PRICEeeeeeeeeeeeee");
+			rowHeading.createCell(2).setCellValue("PRICE");
 
 			for (int i = 0; i < 3; i++) {
 				CellStyle stylerowHeading = workbook.createCellStyle();
@@ -44,7 +44,6 @@ public class WriteExcel {
 				cell3.setCellValue(t.getKol3());
 				Cell cell4 = row.createCell(3);
 				cell4.setCellValue(t.getKol4());
-
 				r++;
 			}
 
